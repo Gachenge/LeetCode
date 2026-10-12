@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LinkedList/LinkedList.csproj" />
+  <Project Path="Parenthesis/Parenthesis.csproj" />
+</Solution>
